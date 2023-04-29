@@ -1,0 +1,2 @@
+# Minesweeper
+Codeacademy project
